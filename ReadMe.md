@@ -18,3 +18,5 @@ cd MovieManager
 dotnet run
 
 - 4 Open your web browser and go to http://localhost:5207 to access the application.
+
+ # cały wpis na blogu : https://dev-hobby.pl/csharp/odkryj-4-filary-programowania-obiektowego-w-asp-net-core/
